@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+/* Centrar las listas de la web */
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    }
